@@ -27,6 +27,7 @@ Software Engineer with hands-on experience in Python backend development, REST A
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
 
 # 📊 GitHub Stats:
+![Stats](./profile/stats.svg)
 ![](https://github-readme-stats.shion.dev/api?username=Nassim-Assassi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nassim-Assassi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
