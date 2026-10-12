@@ -28,10 +28,6 @@ Software Engineer with hands-on experience in Python backend development, REST A
 
 # 📊 GitHub Stats:
 ![Stats](./profile/stats.svg)<br/>
-![Languages](./profile/languages.svg)<br/>
-
-
-![](https://github-readme-stats.shion.dev/api?username=Nassim-Assassi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[](https://github-readme-stats.shion.dev/api/top-langs/?username=Nassim-Assassi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Languages](./profile/languages.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
