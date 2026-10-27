@@ -1,8 +1,6 @@
 name: Update README cards
 
-on:
-  schedule:
-    - cron: '42 1-22/3 * * *' 
+on: 
   workflow_dispatch: # Allows you to run it manually anytime
 
 jobs:
