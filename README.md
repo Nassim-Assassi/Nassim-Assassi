@@ -1,10 +1,8 @@
 # Hi, I'm Nassim 👋
 
-Software and Data Engineer building Python applications, REST APIs and data pipelines as well as deploying data solutions on AWS.
+Software and Data Engineer with experience developing Python applications, REST APIs and data pipelines, implementing data validation, automated testing and CI/CD workflows. Experienced in PostgreSQL database development, data modelling and cloud infrastructure provisioning using Terraform. Employ Test-Driven Development principles and prioritise clean code and collaborative engineering practices.
 
-Experienced in developing batch ETL and real-time Kafka ingestion pipelines, alongside PostgreSQL database development and data modelling. Proficient in provisioning cloud infrastructure with Terraform, with a strong focus on Test-Driven Development (90% coverage), data validation, and CI/CD workflows via GitHub Actions and pytest.
-
-Skilled in building scalable AWS data lake solutions (Amazon S3, Apache Parquet, Athena) and AI-powered applications using retrieval-augmented generation (RAG) and `pgvector`.
+Developed batch Extract, Transform, Load (ETL) and real-time Kafka ingestion pipelines, AWS data lake solutions using Amazon S3, Apache Parquet and Athena, and AI-powered applications using retrieval-augmented generation (RAG)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nassim-eddine-assassi) 
